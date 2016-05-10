@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ummo5 (2).iml" filepath="$PROJECT_DIR$/Ummo5 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fabtransitionactivity/fabtransitionactivity.iml" filepath="$PROJECT_DIR$/fabtransitionactivity/fabtransitionactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatbutton/floatbutton.iml" filepath="$PROJECT_DIR$/floatbutton/floatbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hollyviewpager/hollyviewpager.iml" filepath="$PROJECT_DIR$/hollyviewpager/hollyviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materiallettericon/materiallettericon.iml" filepath="$PROJECT_DIR$/materiallettericon/materiallettericon.iml" />
+    </modules>
+  </component>
+</project>
